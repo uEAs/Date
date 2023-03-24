@@ -1,0 +1,12 @@
+\\RSGS01\StudentsHome$\Ahmet.Seyhan\Data\VBprojekte\VB_Projekte\Bundesjugendspiele\Bundesjugendspiele\obj\Debug\Bundesjugendspiele.vbprojAssemblyReference.cache
+\\RSGS01\StudentsHome$\Ahmet.Seyhan\Data\VBprojekte\VB_Projekte\Bundesjugendspiele\Bundesjugendspiele\obj\Debug\Bundesjugendspiele.frmBundesjugendspiele.resources
+\\RSGS01\StudentsHome$\Ahmet.Seyhan\Data\VBprojekte\VB_Projekte\Bundesjugendspiele\Bundesjugendspiele\obj\Debug\Bundesjugendspiele.Resources.resources
+\\RSGS01\StudentsHome$\Ahmet.Seyhan\Data\VBprojekte\VB_Projekte\Bundesjugendspiele\Bundesjugendspiele\obj\Debug\Bundesjugendspiele.vbproj.GenerateResource.cache
+\\RSGS01\StudentsHome$\Ahmet.Seyhan\Data\VBprojekte\VB_Projekte\Bundesjugendspiele\Bundesjugendspiele\obj\Debug\Bundesjugendspiele.vbproj.CoreCompileInputs.cache
+\\RSGS01\StudentsHome$\Ahmet.Seyhan\Data\VBprojekte\VB_Projekte\Bundesjugendspiele\Bundesjugendspiele\bin\Debug\Bundesjugendspiele.exe.config
+\\RSGS01\StudentsHome$\Ahmet.Seyhan\Data\VBprojekte\VB_Projekte\Bundesjugendspiele\Bundesjugendspiele\bin\Debug\Bundesjugendspiele.exe
+\\RSGS01\StudentsHome$\Ahmet.Seyhan\Data\VBprojekte\VB_Projekte\Bundesjugendspiele\Bundesjugendspiele\bin\Debug\Bundesjugendspiele.pdb
+\\RSGS01\StudentsHome$\Ahmet.Seyhan\Data\VBprojekte\VB_Projekte\Bundesjugendspiele\Bundesjugendspiele\bin\Debug\Bundesjugendspiele.xml
+\\RSGS01\StudentsHome$\Ahmet.Seyhan\Data\VBprojekte\VB_Projekte\Bundesjugendspiele\Bundesjugendspiele\obj\Debug\Bundesjugendspiele.exe
+\\RSGS01\StudentsHome$\Ahmet.Seyhan\Data\VBprojekte\VB_Projekte\Bundesjugendspiele\Bundesjugendspiele\obj\Debug\Bundesjugendspiele.xml
+\\RSGS01\StudentsHome$\Ahmet.Seyhan\Data\VBprojekte\VB_Projekte\Bundesjugendspiele\Bundesjugendspiele\obj\Debug\Bundesjugendspiele.pdb
