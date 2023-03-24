@@ -1,0 +1,12 @@
+\\RSGS01\StudentsHome$\Ahmet.Seyhan\Data\VBprojekte\VB_Projekte\Geschwindigkeitsgrad\Geschwindigkeitsgrad\bin\Debug\Geschwindigkeitsgrad.exe.config
+\\RSGS01\StudentsHome$\Ahmet.Seyhan\Data\VBprojekte\VB_Projekte\Geschwindigkeitsgrad\Geschwindigkeitsgrad\bin\Debug\Geschwindigkeitsgrad.exe
+\\RSGS01\StudentsHome$\Ahmet.Seyhan\Data\VBprojekte\VB_Projekte\Geschwindigkeitsgrad\Geschwindigkeitsgrad\bin\Debug\Geschwindigkeitsgrad.pdb
+\\RSGS01\StudentsHome$\Ahmet.Seyhan\Data\VBprojekte\VB_Projekte\Geschwindigkeitsgrad\Geschwindigkeitsgrad\bin\Debug\Geschwindigkeitsgrad.xml
+\\RSGS01\StudentsHome$\Ahmet.Seyhan\Data\VBprojekte\VB_Projekte\Geschwindigkeitsgrad\Geschwindigkeitsgrad\obj\Debug\Geschwindigkeitsgrad.vbprojAssemblyReference.cache
+\\RSGS01\StudentsHome$\Ahmet.Seyhan\Data\VBprojekte\VB_Projekte\Geschwindigkeitsgrad\Geschwindigkeitsgrad\obj\Debug\Geschwindigkeitsgrad.frmGeschwindigkeitsgrad.resources
+\\RSGS01\StudentsHome$\Ahmet.Seyhan\Data\VBprojekte\VB_Projekte\Geschwindigkeitsgrad\Geschwindigkeitsgrad\obj\Debug\Geschwindigkeitsgrad.Resources.resources
+\\RSGS01\StudentsHome$\Ahmet.Seyhan\Data\VBprojekte\VB_Projekte\Geschwindigkeitsgrad\Geschwindigkeitsgrad\obj\Debug\Geschwindigkeitsgrad.vbproj.GenerateResource.cache
+\\RSGS01\StudentsHome$\Ahmet.Seyhan\Data\VBprojekte\VB_Projekte\Geschwindigkeitsgrad\Geschwindigkeitsgrad\obj\Debug\Geschwindigkeitsgrad.vbproj.CoreCompileInputs.cache
+\\RSGS01\StudentsHome$\Ahmet.Seyhan\Data\VBprojekte\VB_Projekte\Geschwindigkeitsgrad\Geschwindigkeitsgrad\obj\Debug\Geschwindigkeitsgrad.exe
+\\RSGS01\StudentsHome$\Ahmet.Seyhan\Data\VBprojekte\VB_Projekte\Geschwindigkeitsgrad\Geschwindigkeitsgrad\obj\Debug\Geschwindigkeitsgrad.xml
+\\RSGS01\StudentsHome$\Ahmet.Seyhan\Data\VBprojekte\VB_Projekte\Geschwindigkeitsgrad\Geschwindigkeitsgrad\obj\Debug\Geschwindigkeitsgrad.pdb
